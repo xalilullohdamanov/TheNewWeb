@@ -39,7 +39,7 @@ li{
 font-size: 18px;
 line-height: 21px;
 text-align: right;
-color: #e92020;
+color: #000000;
 
    
 }
@@ -54,23 +54,23 @@ line-height: 21px;
 color: #000000;
 }
 .header__nav{
-    background: #B71C1C;
+    background: #0825a8;
     
 }
 .header__nav2{
     background: #6A1B9A;
 }
 .header__nav3{
-    background: #e11203;
+    background: #0f7722;
 }
 .header__nav4{
-    background: #d80617;
+    background: #0f5680;
 }
 .title__header{
     font-weight: 700;
 font-size: 19px;
 line-height: 22px;
-color: #ff0000;
+color: #f2f2f2;
 padding: 7px 15px;
 }
 
