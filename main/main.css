@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+.container{
+    max-width: 1400px;
+    width: 100%;
+    padding: 0 15px;
+    margin: auto;
+}
+.item{
+    padding-top: 40px;
+}
+.header__naw{
+    padding-top: 30px;
+}
+.nav__content{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+ 
+}
+.item{
+    display: flex;
+    
+}
+.list{
+    margin-left: 15px;
+    
+}
+.link{
+    text-decoration: none;
+    font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: right;
+color: #3A3838;
+
+   
+}
+
+.link:hover{
+    color: red;
+}
+.title{
+    font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+}
+.header__nav{
+    background: #B71C1C;
+    
+}
+.header__nav2{
+    background: #6A1B9A;
+}
+.header__nav3{
+    background: #303F9F;
+}
+.header__nav4{
+    background: #00695C;
+}
+.title__header{
+    font-weight: 700;
+font-size: 19px;
+line-height: 22px;
+color: #FFFFFF;
+padding: 7px 15px;
+}
+
+.header__text{
+    padding: 15px;
+    font-size: 16px;
+line-height: 19px;
+text-align: justify;
+
+color: #EBEBEB;
+}
+.heaader__footer{
+    display: flex;
+}
+.logo__work{
+  margin: 40px 145px;
+}
+.title__work{
+    font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+color: #3A3838;
+text-align: center;
+margin: 40px 0;
+}
+.footer__content{
+    display: flex;
+    background: #EDEDED;
+   
+   
+}
+.footer__work{
+    margin-left: 30px;
+
+   
+}
+@font-face{
+    font-family:Roboto;
+    src: url(../font/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+body{
+    font-family: Roboto;
+}
+.footer__img{
+   margin-left: 130px;
+}
+.footer__text{
+    font-size: 18px;
+line-height: 21px;
+color: #686868;
+width: 540px;
+}
+.footer__title{
+    padding: 30px 0;
+    width: 540px;
+    font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+color: #000000;
+}
+.works__content{
+    background: #3A3838;
+}
+.nav__content-work{
+    display: flex;
+    justify-content: space-around;
+   padding: 30px;
+    background: #3A3838;
+}
+.title__works{
+    font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+}
+.link__work{
+    font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: right;
+color: #FFFFFF;
+text-decoration: none;
+}
+.link__work:hover{
+    color: #EF4423;
+}
